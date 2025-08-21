@@ -123,8 +123,8 @@ export function BasicEventDetails() {
               </h4>
               <ul className="text-sm text-blue-700 space-y-1">
                 <li>• Llegar 30 minutos antes</li>
-                <li>• Código de vestimenta: {basicDemoData.event.dressCode}</li>
-                <li>• {basicDemoData.event.restrictions}</li>
+                <li>• Código de vestimenta: Semi-Formal</li>
+                
               </ul>
             </div>
           </div>

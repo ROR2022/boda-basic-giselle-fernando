@@ -3,7 +3,7 @@ export const basicDemoData = {
   hero: {
     name: "Giselle & Fernando",
     subtitle: "¡Nos Casamos!",
-    backgroundImage: "/images/novios1.png"
+    backgroundImage: "/images/giselleFernando1.jpg"
   },
   
   event: {
